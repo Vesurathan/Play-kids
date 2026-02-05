@@ -1,0 +1,246 @@
+Project Workflows
+
+Interactive Animated AI Companions for Children
+
+1. Child Interaction Workflow (Main Loop)
+
+Goal: Fun, natural conversation with animated reactions
+
+Flow:
+
+Child opens the app
+
+Selects an animated character (Crow / Turtle / Cow)
+
+Character greets the child with animation + voice
+
+Character asks a question / tells a joke
+
+Child responds (voice or buttons)
+
+System:
+
+Converts voice → text
+
+Detects emotion & intent
+
+AI generates a safe, funny response
+
+Reaction engine:
+
+Chooses facial expression
+
+Plays animation
+
+Character replies with voice + expression
+
+Loop continues until session ends
+
+2. Voice Interaction Workflow
+
+Goal: Smooth voice-based conversation
+
+Flow:
+
+Child presses “Speak” or auto-listen starts
+
+Microphone captures voice
+
+Speech-to-Text processes input
+
+Noise & safety filters applied
+
+Text sent to AI engine
+
+AI response returned
+
+Text-to-Speech generates character voice
+
+Audio synced with facial animation
+
+Response played to child
+
+3. Emotion & Reaction Workflow
+
+Goal: Make characters feel alive
+
+Flow:
+
+Child response received
+
+Emotion analyzer checks:
+
+Tone
+
+Speed
+
+Keywords
+
+Emotion classified (happy / confused / excited)
+
+Reaction mapping engine selects:
+
+Facial expression
+
+Body animation
+
+Voice tone
+
+Animation & voice triggered together
+
+Follow-up dialog selected
+
+4. Safety & Moderation Workflow
+
+Goal: 100% child-safe experience
+
+Flow:
+
+Child input received
+
+Content filter scans input
+
+If safe:
+
+Continue to AI processing
+
+If unsafe or unclear:
+
+Block content
+
+Trigger safe fallback response
+
+Log incident (anonymous)
+
+Notify parent dashboard (if required)
+
+5. Learning Activity Workflow
+
+Goal: Fun + hidden education
+
+Flow:
+
+Character introduces a mini activity
+
+Child answers
+
+System evaluates correctness
+
+Character reacts:
+
+Correct → celebration animation 🎉
+
+Wrong → encouraging funny response
+
+Hint or retry offered
+
+Reward issued (sticker / sound)
+
+Progress stored
+
+6. Reward & Progress Workflow
+
+Goal: Motivation and retention
+
+Flow:
+
+Interaction completes
+
+Engagement score calculated
+
+Reward unlocked
+
+Visual celebration animation
+
+Reward stored in profile
+
+New content unlocked (optional)
+
+7. Parent Control Workflow
+
+Goal: Trust and transparency
+
+Flow:
+
+Parent logs in
+
+Views child dashboard
+
+Sees:
+
+Usage time
+
+Activities completed
+
+Sets:
+
+Time limits
+
+Allowed characters
+
+Changes saved
+
+Rules enforced in real time
+
+8. Admin Content Management Workflow
+
+Goal: Easy updates without redeploy
+
+Flow:
+
+Admin logs in
+
+Manages characters
+
+Uploads:
+
+Dialog templates
+
+Animations
+
+Voice styles
+
+Sets age rules & difficulty
+
+Publishes content
+
+Content goes live instantly
+
+9. Error & Fallback Workflow
+
+Goal: Never break the child experience
+
+Flow:
+
+System error detected (AI / voice / network)
+
+Fallback response triggered:
+
+“Oops! My beak got tired 😄”
+
+Character plays funny idle animation
+
+Retry or switch to button mode
+
+Error logged silently
+
+10. Session Start & End Workflow
+Session Start
+
+App launched
+
+Parental rules loaded
+
+Character selected
+
+Welcome animation played
+
+Session End
+
+Time limit reached or exit
+
+Character says goodbye
+
+Progress saved
+
+Parent notified (optional)
