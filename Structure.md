@@ -1,7 +1,4 @@
-Love this idea — it’s playful, educational, and very “future-ready” 🐦🐢🐄
-Here’s a **clean high-level structure** you can use as a foundation, without going too technical.
 
----
 
 ## 1. User Experience (Child’s View)
 
